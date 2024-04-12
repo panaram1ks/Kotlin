@@ -1,3 +1,5 @@
+package com.study.kotlin.myself.collections.list
+
 fun main(args: Array<String>){
 //    val colors = listOf("blue", "green", "yellow")
 //    println(colors)

@@ -1,3 +1,5 @@
+package com.study.kotlin.myself.collections.list
+
 fun main(args: Array<String>) {
     var colors = arrayListOf("blue", "red", "blue", "green")
     println(colors.size)
