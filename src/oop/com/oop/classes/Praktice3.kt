@@ -1,10 +1,10 @@
 fun main(args: Array<String>) {
     val jetPack = Jetpack()
     jetPack.burn(10)
-    println("User height is ${jetPack.userHeight}")
+    println("com.dataclasses.User height is ${jetPack.userHeight}")
     for (i in 1..10) {
         jetPack.stop(1)
-        println("User height is ${jetPack.userHeight}")
+        println("com.dataclasses.User height is ${jetPack.userHeight}")
     }
 }
 
